@@ -12,6 +12,7 @@ An interactive social networking platform designed to facilitate collaborative l
 - Bootstrap
 
 🔋 **Features**
+
 👉 **Secure Authentication**: Robust user login and registration system ensuring secure access to the platform.
 
 👉 **Home Page with Study Room Feed**: Displays a dynamic feed of active study rooms, allowing users to quickly join and engage in discussions.
